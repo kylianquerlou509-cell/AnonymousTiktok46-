@@ -1,0 +1,6 @@
+{
+  "name": "AnonymousTikTok46",
+  "description": "Mod Menu Galaxy Simulator with AnonymousTikTok46 layout and glowing wavy animations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
